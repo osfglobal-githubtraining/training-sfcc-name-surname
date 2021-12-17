@@ -1,0 +1,126 @@
+<div class="modal fade" id="buyTogether" tabindex="-1" role="dialog" aria-labelledby="">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">${Resource.msg('text.buyTogether', 'product', null)}</h2>
+            </div>
+            <div class="modal-body buyTogether">
+                <div class="row">
+
+                    <div class="buyTogether__img col-12 col-sm-6">
+                        <img src="/on/demandware.static/-/Sites-Master_Catalog_LesLisBlanc/default/dwcf8cbd9d/image/product/model/11.19.1684_19_1.jpg" class="d-block img-fluid" alt="" itemprop="image" />
+                    </div>
+
+                    <div class="col-12 col-sm-6">
+                        <div class="buyTogether__looks">
+                            <div class="buyTogether__imgLook">
+                                <a class="wishlistTile" href="${URLUtils.url('Wishlist-AddProduct')}"
+                                    title="${Resource.msg('wishlist.addto.wishlist.heart', 'wishlist', null)}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-heart-o fa-stack-1x"></i>
+                                    </span>
+                                </a>
+                                <img src="/on/demandware.static/-/Sites-Master_Catalog_LesLisBlanc/default/dw4e4b1467/image/product/still/18.03.0946_94_1.jpg" class="d-block img-fluid" alt="" itemprop="image" />
+                            </div>
+
+                            <div class="buyTogether__infos">
+                                <div class="buyTogether__product-name">
+                                    <h2>Calça Paula azul escura com cintura alta Le Lis</h2>
+                                </div>
+                                <div class="buyTogether__price">
+                                    <span class="buyTogether__price--oldPrice">R$ 888,88</span>
+                                    <span>|</span>
+                                    <span class="buyTogether__price--sales">R$ 888,88</span>
+                                </div>
+
+                                <div class="attribute">
+                                    <ul class="select-size" id="size-1">
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="1" selected="selected">
+                                            <span>PP</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=2&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="2">
+                                            <span>P</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=3&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="3" outstock="true">
+                                            <span>M</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=4&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="4">
+                                            <span>G</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=5&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="5">
+                                            <span>GG</span>
+                                        </button>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="buyTogether__looks">
+                            <div class="buyTogether__imgLook">
+                                <a class="wishlistTile" href="${URLUtils.url('Wishlist-AddProduct')}"
+                                    title="${Resource.msg('wishlist.addto.wishlist.heart', 'wishlist', null)}">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-heart-o fa-stack-1x"></i>
+                                    </span>
+                                </a>
+                                <img src="/on/demandware.static/-/Sites-Master_Catalog_LesLisBlanc/default/dw4e4b1467/image/product/still/18.03.0946_94_1.jpg" class="d-block img-fluid" alt="" itemprop="image" />
+                            </div>
+
+                            <div class="buyTogether__infos">
+                                <div class="buyTogether__product-name">
+                                    <h2>Calça Paula azul escura com cintura alta Le Lis</h2>
+                                </div>
+                                <div class="buyTogether__price">
+                                    <span class="buyTogether__price--oldPrice">R$ 888,88</span>
+                                    <span>|</span>
+                                    <span class="buyTogether__price--sales">R$ 888,88</span>
+                                </div>
+
+                                <div class="attribute">
+                                    <ul class="select-size" id="size-1">
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="1" selected="selected">
+                                            <span>PP</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=2&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="2">
+                                            <span>P</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=3&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="3" outstock="true">
+                                            <span>M</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=4&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="4">
+                                            <span>G</span>
+                                        </button>
+                                        <button class="options-select-button"
+                                            value="https://bghn-002.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-le_lis_blanc-Site/pt_BR/Product-Variation?dwvar_11.19.1684_color=19&amp;dwvar_11.19.1684_size=5&amp;pid=11.19.1684&amp;quantity=1"
+                                            data-attr-value="5">
+                                            <span>GG</span>
+                                        </button>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
